@@ -23,6 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/8Q5tbPuU03.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://recordit.co/c0KvswjX0F.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # TwitterHW
